@@ -14,3 +14,8 @@ Mata Kuliah: Bahasa Pemograman
 import random
 ```
 Modul random diimpor agar dapat menggunakan fungsi random.random(), yang berfungsi untuk menghasilkan angka acak antara 0 dan 1.
+
+```python
+n = int(input("Masukkan nilai N: "))
+```
+Kode ini meminta pengguna untuk memasukkan nilai integer (n). Nilai n akan menentukan berapa kali program harus menampilkan angka acak yang kurang dari 0.5.
