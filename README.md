@@ -41,5 +41,7 @@ Setelah angka acak yang kurang dari 0.5 didapatkan, program akan menampilkan ang
 print("Selesai")
 ```
 
-Kode di atas merupakan program Python yang meminta pengguna untuk memasukkan jumlah angka acak (n) yang ingin ditampilkan, di mana setiap angka acak tersebut harus kurang dari 0.5. Berikut adalah penjelasan setiap bagian dari kode tersebut:
+Setelah semua angka acak yang kurang dari 0.5 ditampilkan sesuai jumlah yang diminta (n), program akan mencetak kata "Selesai" untuk menandakan akhir eksekusi.
+
+![foto](
 
