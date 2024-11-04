@@ -43,5 +43,5 @@ print("Selesai")
 
 Setelah semua angka acak yang kurang dari 0.5 ditampilkan sesuai jumlah yang diminta (n), program akan mencetak kata "Selesai" untuk menandakan akhir eksekusi.
 
-![foto](
+![foto](https://github.com/keeyyaaa/labpy03/blob/main/Screenshot%202024-11-04%20102710.png?raw=true)
 
