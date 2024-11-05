@@ -224,5 +224,8 @@ Tujuan: Memungkinkan pengguna untuk melakukan transaksi tambahan atau keluar dar
 
 
 # berikut code program python nya:
-![foto]
+![foto](https://github.com/keeyyaaa/labpy03/blob/main/Screenshot%202024-11-05%20110046.png?raw=true)
+
+# berikut hasil code program yang sudah di jalankan:
+![foto](
 
