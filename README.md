@@ -118,3 +118,7 @@ Laba bulanan dihitung dan ditampilkan untuk setiap bulan, serta total keuntungan
 
 ![foto](https://github.com/keeyyaaa/labpy03/blob/main/Screenshot%202024-11-05%20100729.png?raw=true)
 
+## berikut hasil code program python yang sudah di jalankan:
+
+![foto]()
+
