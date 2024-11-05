@@ -43,6 +43,7 @@ print("Selesai")
 
 Setelah semua angka acak yang kurang dari 0.5 ditampilkan sesuai jumlah yang diminta (n), program akan mencetak kata "Selesai" untuk menandakan akhir eksekusi.
 
+## Berikut hasil code latihan 1
 ![foto](https://github.com/keeyyaaa/labpy03/blob/main/Screenshot%202024-11-04%20102710.png?raw=true)
 
 ## Penjelasan untuk code latihan 2
@@ -112,4 +113,8 @@ Saat program dijalankan, fungsi `main` akan dipanggil.
 Modal awal dan laba per bulan diatur, kemudian fungsi `hitung_keuntungan` dijalankan.
 
 Laba bulanan dihitung dan ditampilkan untuk setiap bulan, serta total keuntungan selama 8 bulan ditampilkan di akhir.
+
+## Berikut hasil code latihan 2
+
+![foto]()
 
