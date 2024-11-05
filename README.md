@@ -116,5 +116,5 @@ Laba bulanan dihitung dan ditampilkan untuk setiap bulan, serta total keuntungan
 
 ## Berikut hasil code latihan 2
 
-![foto]()
+![foto](https://github.com/keeyyaaa/labpy03/blob/main/Screenshot%202024-11-05%20100729.png?raw=true)
 
